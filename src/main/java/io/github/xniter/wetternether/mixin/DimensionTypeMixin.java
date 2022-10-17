@@ -1,7 +1,5 @@
 package io.github.xniter.wetternether.mixin;
 
-import net.minecraft.client.Minecraft;
-import net.minecraft.core.Registry;
 import net.minecraft.world.level.dimension.DimensionType;
 import org.spongepowered.asm.mixin.Final;
 import org.spongepowered.asm.mixin.Mixin;
